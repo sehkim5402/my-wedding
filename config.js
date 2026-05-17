@@ -7,7 +7,7 @@
  *  아래 폴더에 1.jpg, 2.jpg, ... 순서로 넣어주세요:
  *    images/hero/1.png       — 메인 사진 (1장)
  *    images/story/2.jpg ...  — 스토리 사진 (자동 감지)
- *    images/gallery/1.jpg ...— 갤러리 사진 (자동 감지)
+ *    images/gallery/1.JPG,2.JPG, ...— 갤러리 사진 (자동 감지)
  *    images/location/1.jpg   — 오시는 길 사진 (1장)
  *    images/og/1.jpg         — OG 공유 썸네일 (1장)
  * ============================================
